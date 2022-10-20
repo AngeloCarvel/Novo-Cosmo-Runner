@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Contagem de Moedas
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-57.03042,"y":-12.81727},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":10.0,"y":-134.0},"guid":"5c07f868-89e7-4286-bc00-0c1c45027666","$version":"A","$type":"Bolt.Branch"},{"numeric":true,"defaultValues":{"b":{"$content":0.0,"$type":"System.Single"}},"position":{"x":-128.0,"y":13.0},"guid":"b86dc1f7-bb71-4ba1-8409-ecb8ee830287","$version":"A","$type":"Bolt.Greater"},{"specifyFallback":false,"kind":"Saved","defaultValues":{"name":{"$content":"Moedas
+      do Player","$type":"System.String"}},"position":{"x":-352.0,"y":84.0},"guid":"8c9e1108-0520-4656-851d-ce252e308644","$version":"A","$type":"Bolt.GetVariable"},{"specifyFallback":false,"kind":"Saved","defaultValues":{"name":{"$content":"Moedas
+      do Player","$type":"System.String"}},"position":{"x":-260.0,"y":-266.0},"guid":"0b8fff7b-c3e1-4040-85a8-63783a1e5f2a","$version":"A","$type":"Bolt.GetVariable","$id":"15"},{"chainable":false,"member":{"name":"text","parameterTypes":null,"targetType":"UnityEngine.UI.Text","targetTypeName":"UnityEngine.UI.Text","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"","$type":"System.String"}},"position":{"x":1.0,"y":-356.0},"guid":"06b67416-fc41-4361-832a-224ca7adb227","$version":"A","$type":"Bolt.SetMember","$id":"17"},{"coroutine":false,"defaultValues":{},"position":{"x":-494.0,"y":-355.0},"guid":"9f94aa0c-b392-4eab-a713-3e83f1fe800d","$version":"A","$type":"Bolt.Start","$id":"20"},{"sourceUnit":{"$ref":"20"},"sourceKey":"trigger","destinationUnit":{"$ref":"17"},"destinationKey":"assign","guid":"21d3d41f-f475-42d8-a8f1-1fa858f1e865","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"value","destinationUnit":{"$ref":"17"},"destinationKey":"input","guid":"c67947e5-120c-42de-8ce9-ffd1b6ed4b4b","$type":"Bolt.ValueConnection"},{"position":{"xMin":-528.0,"yMin":-432.0,"xMax":529.0,"yMax":211.0},"label":"Mostra
+      as Moedas do Player e faz a Contagem das Moedas coletadas","comment":null,"color":{"r":0.5990566,"g":0.9208013,"b":1.0,"a":1.0},"guid":"095a0430-64ad-4358-8019-2d8fa74c525f","$version":"A","$type":"Ludiq.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []

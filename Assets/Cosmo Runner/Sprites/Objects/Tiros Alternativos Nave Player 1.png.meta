@@ -1,0 +1,1909 @@
+fileFormatVersion: 2
+guid: ae6a513adc6084e49868ffe810434486
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4206318568925291229
+    second: Tiros Alternativos Nave Player 1_0
+  - first:
+      213: 6136155619125714022
+    second: Tiros Alternativos Nave Player 1_1
+  - first:
+      213: 7703565210466811234
+    second: Tiros Alternativos Nave Player 1_2
+  - first:
+      213: -2095309243691223171
+    second: Tiros Alternativos Nave Player 1_3
+  - first:
+      213: 2357024752824790262
+    second: Tiros Alternativos Nave Player 1_4
+  - first:
+      213: -928001467692429188
+    second: Tiros Alternativos Nave Player 1_5
+  - first:
+      213: -7144273800454085250
+    second: Tiros Alternativos Nave Player 1_6
+  - first:
+      213: 7315921405548085482
+    second: Tiros Alternativos Nave Player 1_7
+  - first:
+      213: -1120786129188363208
+    second: Tiros Alternativos Nave Player 1_8
+  - first:
+      213: -2028739527986641695
+    second: Tiros Alternativos Nave Player 1_9
+  - first:
+      213: 8879695819653485072
+    second: Tiros Alternativos Nave Player 1_10
+  - first:
+      213: -2640094183187456573
+    second: Tiros Alternativos Nave Player 1_11
+  - first:
+      213: -5036206418555730513
+    second: Tiros Alternativos Nave Player 1_12
+  - first:
+      213: 1291405855043657444
+    second: Tiros Alternativos Nave Player 1_13
+  - first:
+      213: -7419624694579242642
+    second: Tiros Alternativos Nave Player 1_14
+  - first:
+      213: -2623702993144994068
+    second: Tiros Alternativos Nave Player 1_15
+  - first:
+      213: 6178127384400952594
+    second: Tiros Alternativos Nave Player 1_16
+  - first:
+      213: 5783507310861855511
+    second: Tiros Alternativos Nave Player 1_17
+  - first:
+      213: -1457737773232222613
+    second: Tiros Alternativos Nave Player 1_18
+  - first:
+      213: -8623495226763320173
+    second: Tiros Alternativos Nave Player 1_19
+  - first:
+      213: 8881102897476181614
+    second: Tiros Alternativos Nave Player 1_20
+  - first:
+      213: -6901645050053856201
+    second: Tiros Alternativos Nave Player 1_21
+  - first:
+      213: 8186681931395163150
+    second: Tiros Alternativos Nave Player 1_22
+  - first:
+      213: 3371380146497733863
+    second: Tiros Alternativos Nave Player 1_23
+  - first:
+      213: -6712202624444770368
+    second: Tiros Alternativos Nave Player 1_24
+  - first:
+      213: 5585038072476976220
+    second: Tiros Alternativos Nave Player 1_25
+  - first:
+      213: -7271153664008778763
+    second: Tiros Alternativos Nave Player 1_26
+  - first:
+      213: 9040432948388239837
+    second: Tiros Alternativos Nave Player 1_27
+  - first:
+      213: 2397675320525048347
+    second: Tiros Alternativos Nave Player 1_28
+  - first:
+      213: 170928850395353047
+    second: Tiros Alternativos Nave Player 1_29
+  - first:
+      213: 3596039711613217617
+    second: Tiros Alternativos Nave Player 1_30
+  - first:
+      213: -3633524117410259869
+    second: Tiros Alternativos Nave Player 1_31
+  - first:
+      213: 1991146066213126333
+    second: Tiros Alternativos Nave Player 1_32
+  - first:
+      213: -3113503170781489815
+    second: Tiros Alternativos Nave Player 1_33
+  - first:
+      213: 8244354735119419199
+    second: Tiros Alternativos Nave Player 1_34
+  - first:
+      213: -5861040898509758692
+    second: Tiros Alternativos Nave Player 1_35
+  - first:
+      213: 7719659140091070337
+    second: Tiros Alternativos Nave Player 1_36
+  - first:
+      213: 7208465396765122670
+    second: Tiros Alternativos Nave Player 1_37
+  - first:
+      213: 703832152708819692
+    second: Tiros Alternativos Nave Player 1_38
+  - first:
+      213: 5090966319548902820
+    second: Tiros Alternativos Nave Player 1_39
+  - first:
+      213: -7111919272860769030
+    second: Tiros Alternativos Nave Player 1_40
+  - first:
+      213: -4672677878762110877
+    second: Tiros Alternativos Nave Player 1_41
+  - first:
+      213: 205889316491558229
+    second: Tiros Alternativos Nave Player 1_42
+  - first:
+      213: 626190882667605516
+    second: Tiros Alternativos Nave Player 1_43
+  - first:
+      213: -6481696148658046840
+    second: Tiros Alternativos Nave Player 1_44
+  - first:
+      213: -694499458348604224
+    second: Tiros Alternativos Nave Player 1_45
+  - first:
+      213: 3870614151223570318
+    second: Tiros Alternativos Nave Player 1_46
+  - first:
+      213: 8106333880337087857
+    second: Tiros Alternativos Nave Player 1_47
+  - first:
+      213: 9187645752560667906
+    second: Tiros Alternativos Nave Player 1_48
+  - first:
+      213: -4068316315729217073
+    second: Tiros Alternativos Nave Player 1_49
+  - first:
+      213: 2156898704922176592
+    second: Tiros Alternativos Nave Player 1_50
+  - first:
+      213: 5295369470508162856
+    second: Tiros Alternativos Nave Player 1_51
+  - first:
+      213: 1893724882638818968
+    second: Tiros Alternativos Nave Player 1_52
+  - first:
+      213: 6812255090692722453
+    second: Tiros Alternativos Nave Player 1_53
+  - first:
+      213: 7695868764945012224
+    second: Tiros Alternativos Nave Player 1_54
+  - first:
+      213: -476605891921618766
+    second: Tiros Alternativos Nave Player 1_55
+  - first:
+      213: 1252701548073938367
+    second: Tiros Alternativos Nave Player 1_56
+  - first:
+      213: 7315629165958669617
+    second: Tiros Alternativos Nave Player 1_57
+  - first:
+      213: 6527884716312966516
+    second: Tiros Alternativos Nave Player 1_58
+  - first:
+      213: 4866791043816184633
+    second: Tiros Alternativos Nave Player 1_59
+  - first:
+      213: 4421308352196209954
+    second: Tiros Alternativos Nave Player 1_60
+  - first:
+      213: -1154493029180971142
+    second: Tiros Alternativos Nave Player 1_61
+  - first:
+      213: -3577728524239026889
+    second: Tiros Alternativos Nave Player 1_62
+  - first:
+      213: -8696971747029289376
+    second: Tiros Alternativos Nave Player 1_63
+  - first:
+      213: -9155091695265019014
+    second: Tiros Alternativos Nave Player 1_64
+  - first:
+      213: 5302019994351621928
+    second: Tiros Alternativos Nave Player 1_65
+  - first:
+      213: 6588592036265936050
+    second: Tiros Alternativos Nave Player 1_66
+  - first:
+      213: 468597818017332793
+    second: Tiros Alternativos Nave Player 1_67
+  - first:
+      213: 3808851661067327916
+    second: Tiros Alternativos Nave Player 1_68
+  - first:
+      213: -7647719699673488309
+    second: Tiros Alternativos Nave Player 1_69
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ebe0d378df5a30800000000000000
+      internalID: 4206318568925291229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c518c5601082550800000000000000
+      internalID: 6136155619125714022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7ee16ebf88ea60800000000000000
+      internalID: 7703565210466811234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7731332857fbe2e0800000000000000
+      internalID: -2095309243691223171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcacee4685d5b020800000000000000
+      internalID: 2357024752824790262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d627f4931f13f0800000000000000
+      internalID: -928001467692429188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75edc994d07adc90800000000000000
+      internalID: -7144273800454085250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ce56c1cf578560800000000000000
+      internalID: 7315921405548085482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ea8424fa2270f0800000000000000
+      internalID: -1120786129188363208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40094e52878d3e0800000000000000
+      internalID: -2028739527986641695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01297f32d440b3b70800000000000000
+      internalID: 8879695819653485072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd598504508c5bd0800000000000000
+      internalID: -2640094183187456573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5817ef1fccb1ab0800000000000000
+      internalID: -5036206418555730513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9cb278cefbe110800000000000000
+      internalID: 1291405855043657444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6953e0b6a2380990800000000000000
+      internalID: -7419624694579242642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a679570cb69bd0800000000000000
+      internalID: -2623702993144994068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df45c7f1e1db550800000000000000
+      internalID: 6178127384400952594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71babc3c145234050800000000000000
+      internalID: 5783507310861855511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e03daf73315cbe0800000000000000
+      internalID: -1457737773232222613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ee7ec7c0335880800000000000000
+      internalID: -8623495226763320173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e92c9f704004b70800000000000000
+      internalID: 8881102897476181614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f4b9b46e6830a0800000000000000
+      internalID: -6901645050053856201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04eae977dfec9170800000000000000
+      internalID: 8186681931395163150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44dc2816c89ce20800000000000000
+      internalID: 3371380146497733863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7568d964779d2a0800000000000000
+      internalID: -6712202624444770368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c50f398a028d40800000000000000
+      internalID: 5585038072476976220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0a7d444ca71b90800000000000000
+      internalID: -7271153664008778763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91b684ed1167d70800000000000000
+      internalID: 9040432948388239837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1acd962001464120800000000000000
+      internalID: 2397675320525048347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4ea142e24f5200800000000000000
+      internalID: 170928850395353047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b67e8a013b7e130800000000000000
+      internalID: 3596039711613217617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c52f20111239dc0800000000000000
+      internalID: -3633524117410259869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0cc843cc8f1ab10800000000000000
+      internalID: 1991146066213126333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965548abc5d9ac4d0800000000000000
+      internalID: -3113503170781489815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f374a1d73f4d96270800000000000000
+      internalID: 8244354735119419199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1a4e1b5669aea0800000000000000
+      internalID: -5861040898509758692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c930661db12b60800000000000000
+      internalID: 7719659140091070337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6061e5161d990460800000000000000
+      internalID: 7208465396765122670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea25b32d9384c900800000000000000
+      internalID: 703832152708819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada03005eeb6a640800000000000000
+      internalID: 5090966319548902820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af421e51a136d4d90800000000000000
+      internalID: -7111919272860769030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600f86e930572fb0800000000000000
+      internalID: -4672677878762110877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df6841e377bd200800000000000000
+      internalID: 205889316491558229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eadf24a4da0b800800000000000000
+      internalID: 626190882667605516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888383db1b36c06a0800000000000000
+      internalID: -6481696148658046840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42e681c64ac56f0800000000000000
+      internalID: -694499458348604224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe74a201f27b530800000000000000
+      internalID: 3870614151223570318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db43807bb7f7070800000000000000
+      internalID: 8106333880337087857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d418b3223118f70800000000000000
+      internalID: 9187645752560667906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b80f9ddf6a87c0800000000000000
+      internalID: -4068316315729217073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce263c1f7deed10800000000000000
+      internalID: 2156898704922176592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f56143a7eec7940800000000000000
+      internalID: 5295369470508162856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e41045fbcd74a10800000000000000
+      internalID: 1893724882638818968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f061089edf98e50800000000000000
+      internalID: 6812255090692722453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00652940ed73dca60800000000000000
+      internalID: 7695868764945012224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8572a6771c269f0800000000000000
+      internalID: -476605891921618766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd678ebb6d726110800000000000000
+      internalID: 1252701548073938367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135247177f5568560800000000000000
+      internalID: 7315629165958669617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47539823094b79a50800000000000000
+      internalID: 6527884716312966516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b57b24ba05a8340800000000000000
+      internalID: 4866791043816184633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d6f1f6584ab5d30800000000000000
+      internalID: 4421308352196209954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e00ce4ba6affe0800000000000000
+      internalID: -1154493029180971142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73543f1ecda595ec0800000000000000
+      internalID: -3577728524239026889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f5bc46462e4780800000000000000
+      internalID: -8696971747029289376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b8991eb9492f080800000000000000
+      internalID: -9155091695265019014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d853f71f849940800000000000000
+      internalID: 5302019994351621928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b449939c816f6b50800000000000000
+      internalID: 6588592036265936050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e32759b3bc08600800000000000000
+      internalID: 468597818017332793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91314d762cbd430800000000000000
+      internalID: 3808851661067327916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Alternativos Nave Player 1_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b446437d377ddd590800000000000000
+      internalID: -7647719699673488309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiros Alternativos Nave Player 1_18: -1457737773232222613
+      Tiros Alternativos Nave Player 1_24: -6712202624444770368
+      Tiros Alternativos Nave Player 1_50: 2156898704922176592
+      Tiros Alternativos Nave Player 1_44: -6481696148658046840
+      Tiros Alternativos Nave Player 1_51: 5295369470508162856
+      Tiros Alternativos Nave Player 1_1: 6136155619125714022
+      Tiros Alternativos Nave Player 1_25: 5585038072476976220
+      Tiros Alternativos Nave Player 1_42: 205889316491558229
+      Tiros Alternativos Nave Player 1_52: 1893724882638818968
+      Tiros Alternativos Nave Player 1_47: 8106333880337087857
+      Tiros Alternativos Nave Player 1_39: 5090966319548902820
+      Tiros Alternativos Nave Player 1_40: -7111919272860769030
+      Tiros Alternativos Nave Player 1_54: 7695868764945012224
+      Tiros Alternativos Nave Player 1_63: -8696971747029289376
+      Tiros Alternativos Nave Player 1_56: 1252701548073938367
+      Tiros Alternativos Nave Player 1_43: 626190882667605516
+      Tiros Alternativos Nave Player 1_31: -3633524117410259869
+      Tiros Alternativos Nave Player 1_53: 6812255090692722453
+      Tiros Alternativos Nave Player 1_34: 8244354735119419199
+      Tiros Alternativos Nave Player 1_68: 3808851661067327916
+      Tiros Alternativos Nave Player 1_2: 7703565210466811234
+      Tiros Alternativos Nave Player 1_11: -2640094183187456573
+      Tiros Alternativos Nave Player 1_19: -8623495226763320173
+      Tiros Alternativos Nave Player 1_41: -4672677878762110877
+      Tiros Alternativos Nave Player 1_0: 4206318568925291229
+      Tiros Alternativos Nave Player 1_14: -7419624694579242642
+      Tiros Alternativos Nave Player 1_64: -9155091695265019014
+      Tiros Alternativos Nave Player 1_7: 7315921405548085482
+      Tiros Alternativos Nave Player 1_35: -5861040898509758692
+      Tiros Alternativos Nave Player 1_38: 703832152708819692
+      Tiros Alternativos Nave Player 1_59: 4866791043816184633
+      Tiros Alternativos Nave Player 1_12: -5036206418555730513
+      Tiros Alternativos Nave Player 1_28: 2397675320525048347
+      Tiros Alternativos Nave Player 1_3: -2095309243691223171
+      Tiros Alternativos Nave Player 1_15: -2623702993144994068
+      Tiros Alternativos Nave Player 1_26: -7271153664008778763
+      Tiros Alternativos Nave Player 1_58: 6527884716312966516
+      Tiros Alternativos Nave Player 1_32: 1991146066213126333
+      Tiros Alternativos Nave Player 1_10: 8879695819653485072
+      Tiros Alternativos Nave Player 1_23: 3371380146497733863
+      Tiros Alternativos Nave Player 1_5: -928001467692429188
+      Tiros Alternativos Nave Player 1_6: -7144273800454085250
+      Tiros Alternativos Nave Player 1_8: -1120786129188363208
+      Tiros Alternativos Nave Player 1_37: 7208465396765122670
+      Tiros Alternativos Nave Player 1_49: -4068316315729217073
+      Tiros Alternativos Nave Player 1_9: -2028739527986641695
+      Tiros Alternativos Nave Player 1_17: 5783507310861855511
+      Tiros Alternativos Nave Player 1_55: -476605891921618766
+      Tiros Alternativos Nave Player 1_67: 468597818017332793
+      Tiros Alternativos Nave Player 1_13: 1291405855043657444
+      Tiros Alternativos Nave Player 1_27: 9040432948388239837
+      Tiros Alternativos Nave Player 1_60: 4421308352196209954
+      Tiros Alternativos Nave Player 1_30: 3596039711613217617
+      Tiros Alternativos Nave Player 1_22: 8186681931395163150
+      Tiros Alternativos Nave Player 1_66: 6588592036265936050
+      Tiros Alternativos Nave Player 1_33: -3113503170781489815
+      Tiros Alternativos Nave Player 1_61: -1154493029180971142
+      Tiros Alternativos Nave Player 1_4: 2357024752824790262
+      Tiros Alternativos Nave Player 1_20: 8881102897476181614
+      Tiros Alternativos Nave Player 1_46: 3870614151223570318
+      Tiros Alternativos Nave Player 1_29: 170928850395353047
+      Tiros Alternativos Nave Player 1_16: 6178127384400952594
+      Tiros Alternativos Nave Player 1_65: 5302019994351621928
+      Tiros Alternativos Nave Player 1_48: 9187645752560667906
+      Tiros Alternativos Nave Player 1_21: -6901645050053856201
+      Tiros Alternativos Nave Player 1_36: 7719659140091070337
+      Tiros Alternativos Nave Player 1_45: -694499458348604224
+      Tiros Alternativos Nave Player 1_62: -3577728524239026889
+      Tiros Alternativos Nave Player 1_69: -7647719699673488309
+      Tiros Alternativos Nave Player 1_57: 7315629165958669617
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
